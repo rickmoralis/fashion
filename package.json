@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage":"https://github.com/rickmoralis.github.io/fashion",
+  "homepage":"https://github.com/abaimov.github.io/fashion",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
